@@ -2,6 +2,7 @@
 
 |        | project              |
 |--------|----------------------|
+| 0.68.5 | MyReactNative@0.68.5 |
 | 0.69.4 | MyReactNative@0.69.4 |
 | 0.70.6 | MyReactNative@0.70.6 |
 | 0.71.3 | MyReactNative@0.71.3 |
