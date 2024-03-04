@@ -7,6 +7,7 @@
 | 0.70.6 | MyReactNative@0.70.6 |
 | 0.71.3 | MyReactNative@0.71.3 |
 | 0.72.5 | MyReactNative@0.72.5 |
+| 0.73.5 | MyReactNative@0.73.5 |
 
 # How to run
 
